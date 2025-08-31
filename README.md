@@ -1,12 +1,4 @@
-# 📄 DocuMind AI - Intelligent Document Analysis Workspace
 
-## Project Title
-**DocuMind AI: Multi-Agent Document Intelligence Platform**
-
-## Short Description
-An intelligent document analysis platform that uses collaborative AI agents to automatically summarize, detect risks, and extract decisions from uploaded documents. Built with FastAPI, Streamlit, and designed for Llama3 integration.
-
----
 
 # 📄 DocuMind AI - Multi-Agent Document Intelligence Platform
 
