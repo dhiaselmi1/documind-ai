@@ -68,21 +68,21 @@ An intelligent document analysis platform that uses collaborative AI agents to a
 │ • Dashboard     │                 │ • Agent System  │
 │ • Visualizations│                 │ • API Endpoints │
 └─────────────────┘                 └─────────────────┘
-│
-▼
-┌─────────────────┐
-│ AI Agent System │
-│                 │
-│ ┌─────────────┐ │
-│ │Summary Agent│ │
-│ └─────────────┘ │
-│ ┌─────────────┐ │
-│ │Red Flag Det.│ │
-│ └─────────────┘ │
-│ ┌─────────────┐ │
-│ │Decision Ext.│ │
-│ └─────────────┘ │
-└─────────────────┘
+                                            │
+                                            ▼
+                                    ┌─────────────────┐
+                                    │ AI Agent System │
+                                    │                 │
+                                    │ ┌─────────────┐ │
+                                    │ │Summary Agent│ │
+                                    │ └─────────────┘ │
+                                    │ ┌─────────────┐ │
+                                    │ │Red Flag Det.│ │
+                                    │ └─────────────┘ │
+                                    │ ┌─────────────┐ │
+                                    │ │Decision Ext.│ │
+                                    │ └─────────────┘ │
+                                    └─────────────────┘
 
 
 ---
